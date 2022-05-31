@@ -1,0 +1,603 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Daniel",
+      "surnames": "Bañobre Dopico",
+      "title": "Web Applications Developer",
+      "description": "💻 [ Web application developer ]\n👨‍🏫 [ IT Teacher - security, systems, developing - bootcamp format ]\n\nFocused on social and environmental sustainability. 👭👫👬 🌳🌍🌲\n\nFather, partner and friend | Travel by 🚐 | Assemble things | Disassemble them | Growing and harvesting 🌱🍅😋",
+      "avatar": {
+        "alt": "IMG_20210902_133206246.jpg",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/26/8bbd4908-b61e-4c00-90de-a3349cbef64d_img_20210902_1332062.jpg"
+      },
+      "location": {
+        "notes": "Santiago de Compostela, Spain"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "github",
+        "URL": "https://github.com/DanBaDo"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/mwlite/in/daniel-ba%C3%B1obre-dopico"
+      }
+    ],
+    "interestingFacts": [
+      {
+        "topic": "Social distributed cloud",
+        "fact": "Current cloud is technologically distributed, but cloud management stay in hands of a little group of big companies. Do we have the technology for building a trully distributed cloud?."
+      },
+      {
+        "topic": "Sustainable coding",
+        "fact": "What about the environmental impact of our coding?. Our production software consumes baremetal, communication and energy resources. Finally phisical resources. What about environmental metrics for software?"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Indotem",
+          "image": {
+            "alt": "1641855839425.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/26/2c2aee46-2753-4391-a55c-2270b66f20f0_1641855839425.jpeg"
+          },
+          "URL": "https://github.com/Indotem-Salddud/account-managenment-api"
+        },
+        "roles": [
+          {
+            "name": "Backend team leader",
+            "startDate": "2021-12-01",
+            "finishDate": "2022-04-01",
+            "challenges": [
+              {
+                "description": "Develop and leading backend development for Indotem domiciliary attention platform."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Express",
+                "type": "technology"
+              },
+              {
+                "name": "Github",
+                "type": "technology"
+              },
+              {
+                "name": "MariaDB",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "NavNaval",
+          "image": {
+            "alt": "logotipo-18030.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/26/59f62aa4-76d2-4a6f-9a0b-86ae5422c32f_logotipo-18030.png"
+          }
+        },
+        "roles": [
+          {
+            "name": "CTO and full-stack developer",
+            "startDate": "2019-09-01",
+            "finishDate": "2021-03-01",
+            "challenges": [
+              {
+                "description": "Technological advice: private cloud, data harvesting, data bunker.\n\nDealing with technological partnets: Ubuntu, Equinix, Flytech\n\nFinally, becouse COVID, improvised sole developer for alpha backend version and partial forntend prototipe."
+              }
+            ],
+            "competences": [
+              {
+                "name": "JSON",
+                "type": "technology"
+              },
+              {
+                "name": "Linux",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              },
+              {
+                "name": "Vue",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Ferrovial Servicios",
+          "image": {
+            "alt": "ferrovial-servicios.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/26/28cdf7c3-00a6-4b6e-b6b2-6f242860cc80_ferrovial-servicios.png"
+          }
+        },
+        "roles": [
+          {
+            "name": "TIC coacher",
+            "startDate": "2017-07-01",
+            "finishDate": "2018-07-01",
+            "challenges": [
+              {
+                "description": "Coache for TICs.\nActivities about liable use of TICs.\n\nFullstak landpage & optin process development.\n\nSole developer."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Django",
+                "type": "technology"
+              },
+              {
+                "name": "Linux",
+                "type": "technology"
+              },
+              {
+                "name": "MariaDB",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Kunterbunt Kluges Design",
+          "image": {
+            "alt": "17523658_1383507691692928_3178804907677772527_n.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/26/5936cca9-9ada-4987-a14a-978daccf6685_17523658_13835076916.png"
+          }
+        },
+        "roles": [
+          {
+            "name": "Web developer",
+            "startDate": "2015-09-01",
+            "finishDate": "2017-07-01",
+            "challenges": [
+              {
+                "description": "Dynamic webs developer: blogs, social campaigns.\n\nMy role in position was backend and data base design and deploiment."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Django",
+                "type": "technology"
+              },
+              {
+                "name": "Google Maps",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Linux",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "jQuery",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "details": {
+          "name": "Mooli",
+          "description": "PWA messaging application aimed at non-connected peer-to-peer relationships.\nMy role in the project includes the application engeniering, development leading and backend and frontend development and deploy.\n\nSome little projects born for provide solutions in Mooli: https://github.com/SafeRecoveryPhrase",
+          "URL": "https://github.com/Mooli-me",
+          "image": {
+            "alt": "logo.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/26/803ec4a4-c043-4992-bfbf-27a3a5f10a16_logo.png"
+          }
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2021-03-01",
+            "finishDate": "2021-10-01",
+            "competences": [
+              {
+                "name": "Express",
+                "type": "technology"
+              },
+              {
+                "name": "Heroku",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "Svelte",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "SOHO WiFi access contro Guayfi",
+          "description": "Simple WiFi access control for home and small business. Web interface, backend, radius and custom firmware for routers.\n\nMy role in the project was technologial leader, Django backend and templates, system services design, deploiment and management.",
+          "image": {
+            "alt": "8ecbf7ce-063e-473b-a61c-4157663666bf_12036878_46667304679.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/26/fe3b6f9a-fe35-41df-b52f-d6a3e0ec45a1_8ecbf7ce-063e-473b-a.png"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2016-09-01",
+            "finishDate": "2017-03-01",
+            "competences": [
+              {
+                "name": "Bash",
+                "type": "technology"
+              },
+              {
+                "name": "Django",
+                "type": "technology"
+              },
+              {
+                "name": "Linux",
+                "type": "technology"
+              },
+              {
+                "name": "MariaDB",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Small custom WiFi access control for educational institution",
+          "description": "Small access control web application for control students access to school WiFi.\n\nPHP backend managing iptables and routing in the background.  Provides a HTML/CSS based control pannel and a captive portal.\n\nSole developer.",
+          "image": {
+            "alt": "wifi.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/26/5ede645d-8532-45fb-8d05-e3384c7e92b8_wifi.png"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2007-10-01",
+            "finishDate": "2007-10-01",
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "Linux",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "WiFi cityzen network node software",
+          "description": "Gentoo based custom software for managing refurvised PC as public WiFi open  network. Manages P2P nodes links, routing and landpage.\n\nSole developer.",
+          "image": {
+            "alt": "Captura de pantalla de 2022-05-26 22-07-51.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/26/95ad9402-d4fe-434d-bfa2-6e1af097d707_captura-de-pantalla-.png"
+          }
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2006-10-01",
+            "finishDate": "2007-02-01",
+            "competences": [
+              {
+                "name": "Bash",
+                "type": "technology"
+              },
+              {
+                "name": "Linux",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "English"
+      },
+      {
+        "name": "Galician"
+      },
+      {
+        "name": "Spanish"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Django",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Angular2+",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Vue",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Express",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Flask",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Svelte",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Fullstack development bootcamp",
+        "startDate": "2021-11-01",
+        "finishDate": "2022-02-01",
+        "institution": {
+          "name": "4Geeks academy",
+          "description": "Fullstack development bootcamp",
+          "image": {
+            "alt": "1651003806094.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/26/a3feadc9-b892-4797-ab91-6985efb61921_1651003806094.jpeg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Bootstrap",
+            "type": "technology"
+          },
+          {
+            "name": "Flask",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "Python",
+            "type": "technology"
+          },
+          {
+            "name": "React",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "selfTraining",
+        "degreeAchieved": true,
+        "name": "Blockchain specialization",
+        "startDate": "2021-04-01",
+        "finishDate": "2021-05-01",
+        "institution": {
+          "name": "Coursera - University at Buffalo",
+          "description": "Blockchain Basics\nSmart Contracts\nDecentralized Applications (Dapps)\nBlockchain Platforms",
+          "URL": "https://coursera.org/share/9757dede430d14a77f90fe95a1e9f417",
+          "image": {
+            "alt": "1200px-Coursera-Logo_600x600.svg.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/26/1ca7e492-c51e-4c6a-8669-b73173a99d1a_1200px-coursera-logo.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "Solidity",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Movile hybrid applications development",
+        "startDate": "2017-10-01",
+        "finishDate": "2017-10-01",
+        "institution": {
+          "name": "CNTG",
+          "description": "Web technologies based movile application development",
+          "image": {
+            "alt": "cntg.xunta_.es_.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/26/f234b29f-19dc-4f3f-80ba-b74d5bf91a3e_cntg.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Cordova",
+            "type": "technology"
+          },
+          {
+            "name": "Vue",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "selfTraining",
+        "degreeAchieved": true,
+        "name": "An Introduction to Interactive Programming in Python",
+        "startDate": "2013-03-01",
+        "finishDate": "2013-06-01",
+        "institution": {
+          "name": "Coursera - Rice University",
+          "description": "Python development introduction",
+          "image": {
+            "alt": "1200px-Coursera-Logo_600x600.svg.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/26/8a417aec-2cf6-42f5-a6e6-588278a8b9b1_1200px-coursera-logo.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Python",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Industrial Electronics Specialist",
+        "startDate": "1994-09-01",
+        "finishDate": "1999-07-01",
+        "institution": {
+          "name": "CIFP Ferrolterra",
+          "description": "Electronics applied in industrial environment"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/mwlite/in/daniel-ba%C3%B1obre-dopico"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "CouchDB",
+          "type": "technology"
+        },
+        {
+          "name": "Dart",
+          "type": "technology"
+        },
+        {
+          "name": "Express",
+          "type": "technology"
+        },
+        {
+          "name": "Fastapi",
+          "type": "technology"
+        },
+        {
+          "name": "Flask",
+          "type": "technology"
+        },
+        {
+          "name": "Go",
+          "type": "technology"
+        },
+        {
+          "name": "MongoDB",
+          "type": "technology"
+        },
+        {
+          "name": "NodeJS",
+          "type": "technology"
+        },
+        {
+          "name": "Python",
+          "type": "technology"
+        },
+        {
+          "name": "Svelte",
+          "type": "technology"
+        },
+        {
+          "name": "TypeScript",
+          "type": "technology"
+        },
+        {
+          "name": "Vue",
+          "type": "technology"
+        }
+      ]
+    }
+  }
+}
