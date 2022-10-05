@@ -243,6 +243,34 @@
     "projects": [
       {
         "details": {
+          "name": "Mediogüevo efectos de sonido",
+          "description": "PWA para reproducir efectos de sonido desde el teléfono móvil para la compañía de teatro Mediogüevo.",
+          "URL": "https://github.com/Medioguevo/Mediog-evo-sonido",
+          "image": {
+            "alt": "icon.svg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/05/9c087606-48b6-404d-9871-db439aa1f41d_icon.svg"
+          }
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2022-09-01",
+            "competences": [
+              {
+                "name": "Svelte",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Mooli",
           "description": "PWA messaging application aimed at non-connected peer-to-peer relationships.\nMy role in the project includes the application engeniering, development leading and backend and frontend development and deploy.\n\nSome little projects born for provide solutions in Mooli: https://github.com/SafeRecoveryPhrase",
           "URL": "https://github.com/Mooli-me",
