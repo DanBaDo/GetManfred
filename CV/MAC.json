@@ -15,7 +15,9 @@
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/26/8bbd4908-b61e-4c00-90de-a3349cbef64d_img_20210902_1332062.jpg"
       },
       "location": {
-        "notes": "Santiago de Compostela, Spain"
+        "country": "España",
+        "region": "Galicia",
+        "municipality": "Santiago de Compostela"
       }
     },
     "relevantLinks": [
@@ -41,6 +43,37 @@
   },
   "experience": {
     "jobs": [
+      {
+        "organization": {
+          "name": "Anjana",
+          "image": {
+            "alt": "aurgi.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/05/2e513d1c-2cd1-496a-a28d-b84824c0b499_aurgi.png"
+          }
+        },
+        "roles": [
+          {
+            "name": "Backend R&R developer",
+            "startDate": "2022-07-01",
+            "finishDate": "2022-10-01",
+            "challenges": [
+              {
+                "description": "Write a landing pages engine for positioning improvement:\n- Synthesize URL's and slugs.\n- Route calls to landing pages in URL and slugs basis.\n- Controller-view separation for data sets and templates reuse.\n- Automatically connect compatible controllers data sets and templates providing as many as possible views for the data set.\n- Automatically find callable related landing pages and build links from current page data set.\n- Provides helper functions for templates: create dynamic URL to landing, handle pagination...\nMigrates project Rails version.\nImport models from related project.\nCreate new simple migrations.\nAdd minor improvements and fixes to existing code."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "Ruby on Rails",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
       {
         "organization": {
           "name": "Indotem",
@@ -362,13 +395,13 @@
     "hardSkills": [
       {
         "skill": {
-          "name": "Django",
+          "name": "Svelte",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Angular2+",
+          "name": "Django",
           "type": "technology"
         }
       },
@@ -380,25 +413,7 @@
       },
       {
         "skill": {
-          "name": "Vue",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Express",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "TypeScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "SQL",
           "type": "technology"
         }
       },
@@ -410,7 +425,25 @@
       },
       {
         "skill": {
-          "name": "Svelte",
+          "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Angular2+",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Vue",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TypeScript",
           "type": "technology"
         }
       }
@@ -597,6 +630,10 @@
           "name": "Vue",
           "type": "technology"
         }
+      ],
+      "preferredRoles": [
+        "Backend Developer",
+        "Full-stack Developer"
       ]
     }
   }
