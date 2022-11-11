@@ -433,18 +433,6 @@
       },
       {
         "skill": {
-          "name": "Flask",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "SQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Vue",
           "type": "technology"
         }
@@ -457,19 +445,31 @@
       },
       {
         "skill": {
-          "name": "TypeScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "React",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Ruby on Rails",
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Flask",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Gitflow",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
           "type": "technology"
         }
       },
@@ -481,7 +481,7 @@
       },
       {
         "skill": {
-          "name": "Gitflow",
+          "name": "Ruby on Rails",
           "type": "technology"
         }
       }
