@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -17,8 +17,7 @@
       "location": {
         "country": "España",
         "region": "Galicia",
-        "municipality": "Santiago de Compostela",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Santiago de Compostela"
       }
     },
     "relevantLinks": [
@@ -56,15 +55,18 @@
           {
             "name": "Backend Rails developer",
             "startDate": "2022-07-01",
-            "finishDate": "2022-10-01",
             "challenges": [
               {
-                "description": "Write a landing pages engine for positioning improvement:\n- Synthesize URL's and slugs.\n- Route calls to landing pages in URL and slugs basis.\n- Controller-view separation for data sets and templates reuse.\n- Automatically connect compatible controllers data sets and templates providing as many as possible views for the data set.\n- Automatically find callable related landing pages and build links from current page data set.\n- Provides helper functions for templates: create dynamic URL to landing, handle pagination...\nMigrates project Rails version.\nImport models from related project.\nCreate new simple migrations.\nAdd minor improvements and fixes to existing code."
+                "description": "- Write unit and integration tests.\n- Write a landing pages engine for positioning improvement.\n- Migrates project Rails version.\n- Deduplicate and normalize models.\n- Improve and fix existing code.\n- Integrate 3th party APIs\n- Generate custom PDFs in backend"
               }
             ],
             "competences": [
               {
                 "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
                 "type": "technology"
               },
               {
@@ -412,16 +414,13 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
-        "level": "Limited working proficiency"
+        "name": "English"
       },
       {
-        "name": "Galician",
-        "level": "Limited working proficiency"
+        "name": "Galician"
       },
       {
-        "name": "Spanish",
-        "level": "Limited working proficiency"
+        "name": "Spanish"
       }
     ],
     "hardSkills": [
@@ -669,7 +668,6 @@
         "Backend Developer",
         "Full-stack Developer"
       ]
-    },
-    "status": "searchingActively"
+    }
   }
 }
