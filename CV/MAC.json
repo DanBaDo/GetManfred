@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -17,7 +17,8 @@
       "location": {
         "country": "España",
         "region": "Galicia",
-        "municipality": "Santiago de Compostela"
+        "municipality": "Santiago de Compostela",
+        "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
@@ -136,7 +137,8 @@
           "image": {
             "alt": "logotipo-18030.png",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/26/59f62aa4-76d2-4a6f-9a0b-86ae5422c32f_logotipo-18030.png"
-          }
+          },
+          "URL": ""
         },
         "roles": [
           {
@@ -179,7 +181,8 @@
           "image": {
             "alt": "ferrovial-servicios.png",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/26/28cdf7c3-00a6-4b6e-b6b2-6f242860cc80_ferrovial-servicios.png"
-          }
+          },
+          "URL": ""
         },
         "roles": [
           {
@@ -214,7 +217,8 @@
           "image": {
             "alt": "17523658_1383507691692928_3178804907677772527_n.png",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/26/5936cca9-9ada-4987-a14a-978daccf6685_17523658_13835076916.png"
-          }
+          },
+          "URL": ""
         },
         "roles": [
           {
@@ -326,6 +330,7 @@
         "details": {
           "name": "SOHO WiFi access contro Guayfi",
           "description": "Simple WiFi access control for home and small business. Web interface, backend, radius and custom firmware for routers.\n\nMy role in the project was technologial leader, Django backend and templates, system services design, deploiment and management.",
+          "URL": "",
           "image": {
             "alt": "8ecbf7ce-063e-473b-a61c-4157663666bf_12036878_46667304679.png",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/26/fe3b6f9a-fe35-41df-b52f-d6a3e0ec45a1_8ecbf7ce-063e-473b-a.png"
@@ -362,6 +367,7 @@
         "details": {
           "name": "Small custom WiFi access control for educational institution",
           "description": "Small access control web application for control students access to school WiFi.\n\nPHP backend managing iptables and routing in the background.  Provides a HTML/CSS based control pannel and a captive portal.\n\nSole developer.",
+          "URL": "",
           "image": {
             "alt": "wifi.png",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/26/5ede645d-8532-45fb-8d05-e3384c7e92b8_wifi.png"
@@ -398,6 +404,7 @@
         "details": {
           "name": "WiFi cityzen network node software",
           "description": "Gentoo based custom software for managing refurvised PC as public WiFi open  network. Manages P2P nodes links, routing and landpage.\n\nSole developer.",
+          "URL": "",
           "image": {
             "alt": "Captura de pantalla de 2022-05-26 22-07-51.png",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/26/95ad9402-d4fe-434d-bfa2-6e1af097d707_captura-de-pantalla-.png"
@@ -427,55 +434,22 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English"
+        "name": "English",
+        "level": "Limited working proficiency"
       },
       {
-        "name": "Galician"
+        "name": "Galician",
+        "level": "Native or bilingual proficiency"
       },
       {
-        "name": "Spanish"
+        "name": "Spanish",
+        "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
       {
         "skill": {
           "name": "Django",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Gitflow",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "SQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "PHP",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Vue",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Flask",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Ruby on Rails",
           "type": "technology"
         }
       },
@@ -493,19 +467,13 @@
       },
       {
         "skill": {
+          "name": "Gitflow",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "NodeJS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "CSS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "TypeScript",
           "type": "technology"
         }
       },
@@ -517,19 +485,19 @@
       },
       {
         "skill": {
-          "name": "Svelte",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Python",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Express",
+          "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Ruby on Rails",
           "type": "technology"
         }
       },
@@ -547,7 +515,61 @@
       },
       {
         "skill": {
+          "name": "PHP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Svelte",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Express",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Vue",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Flask",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MariaDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PostgreSQL",
           "type": "technology"
         }
       }
@@ -735,6 +757,31 @@
         "Backend Developer",
         "Full-stack Developer"
       ]
-    }
+    },
+    "status": "searchingActively"
+  },
+  "asgardPreferences": {
+    "mainStackTechs": [
+      {
+        "name": "NodeJS",
+        "type": "technology"
+      },
+      {
+        "name": "Svelte",
+        "type": "technology"
+      },
+      {
+        "name": "Express",
+        "type": "technology"
+      },
+      {
+        "name": "Flask",
+        "type": "technology"
+      },
+      {
+        "name": "TypeScript",
+        "type": "technology"
+      }
+    ]
   }
 }
