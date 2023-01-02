@@ -259,34 +259,6 @@
     "projects": [
       {
         "details": {
-          "name": "Mediogüevo efectos de sonido",
-          "description": "PWA para reproducir efectos de sonido desde el teléfono móvil para la compañía de teatro Mediogüevo.",
-          "URL": "https://github.com/Medioguevo/Mediog-evo-sonido",
-          "image": {
-            "alt": "icon.svg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/05/9c087606-48b6-404d-9871-db439aa1f41d_icon.svg"
-          }
-        },
-        "type": "openSource",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2022-09-01",
-            "competences": [
-              {
-                "name": "Svelte",
-                "type": "technology"
-              },
-              {
-                "name": "TypeScript",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "details": {
           "name": "KinoTest",
           "description": "Kinesiology testing helper app.\nLocal only web app for capturing and storing clinic kinesiology test results.\nSvelte, PWA.\nCurrently starting the backend: data syncing, therapies edition and therapies shop.",
           "URL": "https://kinotest.me/",
@@ -307,6 +279,35 @@
               },
               {
                 "name": "Svelte",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Mediogüevo efectos de sonido",
+          "description": "PWA para reproducir efectos de sonido desde el teléfono móvil para la compañía de teatro Mediogüevo.",
+          "URL": "https://medioguevo.up.railway.app",
+          "image": {
+            "alt": "icon.svg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/05/9c087606-48b6-404d-9871-db439aa1f41d_icon.svg"
+          }
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2022-09-01",
+            "finishDate": "2022-10-01",
+            "competences": [
+              {
+                "name": "Svelte",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
                 "type": "technology"
               }
             ]
