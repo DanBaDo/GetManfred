@@ -710,6 +710,12 @@
     "softSkills": [
       {
         "skill": {
+          "name": "Autonomy in learning",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
           "name": "Capacity for abstract thinking",
           "type": "practice"
         }
