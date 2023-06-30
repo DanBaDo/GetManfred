@@ -42,7 +42,11 @@
     "jobs": [
       {
         "organization": {
-          "name": "Academia Postal & ForGA"
+          "name": "Academia Postal & ForGA",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/30/e869b9d6-cca9-4a49-9e21-bd583068e4c7_png-transparent-comp.png",
+            "alt": "png-transparent-computer-icons-educational-technology-learning-training-course-training-blue-angle-people-thumbnail.png"
+          }
         },
         "roles": [
           {
