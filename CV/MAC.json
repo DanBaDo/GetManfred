@@ -42,6 +42,44 @@
     "jobs": [
       {
         "organization": {
+          "name": "Academia Postal & ForGA"
+        },
+        "roles": [
+          {
+            "name": "Teacher",
+            "startDate": "2022-12-01",
+            "finishDate": "2023-05-01",
+            "competences": [
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "Express",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "SQLite",
+                "type": "technology"
+              },
+              {
+                "name": "Sequelize",
+                "type": "technology"
+              },
+              {
+                "name": "Svelte",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Anjana",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/05/2e513d1c-2cd1-496a-a28d-b84824c0b499_aurgi.png",
@@ -816,6 +854,10 @@
       },
       {
         "name": "Flask",
+        "type": "technology"
+      },
+      {
+        "name": "SQL",
         "type": "technology"
       },
       {
