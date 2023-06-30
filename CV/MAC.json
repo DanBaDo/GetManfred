@@ -710,12 +710,6 @@
     "softSkills": [
       {
         "skill": {
-          "name": "Analytical thinking",
-          "type": "practice"
-        }
-      },
-      {
-        "skill": {
           "name": "Capacity for abstract thinking",
           "type": "practice"
         }
