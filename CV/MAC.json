@@ -832,7 +832,7 @@
       }
     ],
     "desiredJobDescription": "I'm finding companies and projects where I can learn and grow like person and profesional.\nProjects where I can feel helpful for people and the planet.",
-    "goodPractices": "I always try to write clean, reusable code. Symbols must explain the code, but adding some documentation doesn't hurts. I like to start by writing tests if it is possible, basis work load and value provided.",
+    "goodPractices": "I always try __to write clean, reusable code__. Symbols must explain the code, but adding some documentation doesn't hurts. I like __to start by writing tests if it is possible__, basis work load and value provided.",
     "projects": [
       {
         "name": "KinoTest"
