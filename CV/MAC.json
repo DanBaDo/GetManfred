@@ -11,33 +11,16 @@
       "title": "Web Applications Developer",
       "description": "💻 [ Web application developer ]\n👨‍🏫 [ IT Teacher - security, systems, developing - bootcamp format ]\n\nFocused on social and environmental sustainability. 👭👫👬 🌳🌍🌲\n\nFather, partner and friend | Travel by 🚐 | Assemble things | Disassemble them | Growing and harvesting 🌱🍅😋",
       "avatar": {
-        "alt": "IMG_20210902_133206246.jpg",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/26/8bbd4908-b61e-4c00-90de-a3349cbef64d_img_20210902_1332062.jpg"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/26/8bbd4908-b61e-4c00-90de-a3349cbef64d_img_20210902_1332062.jpg",
+        "alt": "IMG_20210902_133206246.jpg"
       },
       "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJp3Hd4kT-Lg0REeOHwIhoFOA)",
         "country": "España",
         "region": "Galicia",
         "municipality": "Santiago de Compostela"
       }
     },
-    "relevantLinks": [
-      {
-        "type": "other",
-        "URL": "https://bytes4life.weebly.com/"
-      },
-      {
-        "type": "github",
-        "URL": "https://github.com/DanBaDo"
-      },
-      {
-        "type": "twitter",
-        "URL": "https://twitter.com/bytes4life"
-      },
-      {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/mwlite/in/daniel-ba%C3%B1obre-dopico"
-      }
-    ],
     "interestingFacts": [
       {
         "topic": "Social distributed cloud",
@@ -47,6 +30,12 @@
         "topic": "Sustainable coding",
         "fact": "What about the environmental impact of our coding?. Our production software consumes baremetal, communication and energy resources. Finally phisical resources. What about environmental metrics for software?"
       }
+    ],
+    "relevantLinks": [
+      {
+        "type": "other",
+        "URL": "https://bytes4life.weebly.com/"
+      }
     ]
   },
   "experience": {
@@ -55,8 +44,8 @@
         "organization": {
           "name": "Anjana",
           "image": {
-            "alt": "aurgi.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/05/2e513d1c-2cd1-496a-a28d-b84824c0b499_aurgi.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/05/2e513d1c-2cd1-496a-a28d-b84824c0b499_aurgi.png",
+            "alt": "aurgi.png"
           }
         },
         "roles": [
@@ -94,8 +83,8 @@
         "organization": {
           "name": "Indotem",
           "image": {
-            "alt": "1641855839425.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/26/2c2aee46-2753-4391-a55c-2270b66f20f0_1641855839425.jpeg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/26/2c2aee46-2753-4391-a55c-2270b66f20f0_1641855839425.jpeg",
+            "alt": "1641855839425.jpeg"
           },
           "URL": "https://github.com/Indotem-Salddud/account-managenment-api"
         },
@@ -134,8 +123,8 @@
         "organization": {
           "name": "NavNaval",
           "image": {
-            "alt": "logotipo-18030.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/26/59f62aa4-76d2-4a6f-9a0b-86ae5422c32f_logotipo-18030.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/26/59f62aa4-76d2-4a6f-9a0b-86ae5422c32f_logotipo-18030.png",
+            "alt": "logotipo-18030.png"
           }
         },
         "roles": [
@@ -177,8 +166,8 @@
         "organization": {
           "name": "Ferrovial Servicios",
           "image": {
-            "alt": "ferrovial-servicios.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/26/28cdf7c3-00a6-4b6e-b6b2-6f242860cc80_ferrovial-servicios.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/26/28cdf7c3-00a6-4b6e-b6b2-6f242860cc80_ferrovial-servicios.png",
+            "alt": "ferrovial-servicios.png"
           }
         },
         "roles": [
@@ -212,8 +201,8 @@
         "organization": {
           "name": "Kunterbunt Kluges Design",
           "image": {
-            "alt": "17523658_1383507691692928_3178804907677772527_n.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/26/5936cca9-9ada-4987-a14a-978daccf6685_17523658_13835076916.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/26/5936cca9-9ada-4987-a14a-978daccf6685_17523658_13835076916.png",
+            "alt": "17523658_1383507691692928_3178804907677772527_n.png"
           }
         },
         "roles": [
@@ -259,12 +248,113 @@
     "projects": [
       {
         "details": {
+          "name": "SOHO WiFi access contro Guayfi",
+          "description": "Simple WiFi access control for home and small business. Web interface, backend, radius and custom firmware for routers.\n\nMy role in the project was technologial leader, Django backend and templates, system services design, deploiment and management.",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/26/fe3b6f9a-fe35-41df-b52f-d6a3e0ec45a1_8ecbf7ce-063e-473b-a.png",
+            "alt": "8ecbf7ce-063e-473b-a61c-4157663666bf_12036878_46667304679.png"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2016-09-01",
+            "competences": [
+              {
+                "name": "Bash",
+                "type": "technology"
+              },
+              {
+                "name": "Django",
+                "type": "technology"
+              },
+              {
+                "name": "Linux",
+                "type": "technology"
+              },
+              {
+                "name": "MariaDB",
+                "type": "technology"
+              }
+            ],
+            "finishDate": "2017-03-01"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Small custom WiFi access control for educational institution",
+          "description": "Small access control web application for control students access to school WiFi.\n\nPHP backend managing iptables and routing in the background.  Provides a HTML/CSS based control pannel and a captive portal.\n\nSole developer.",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/26/5ede645d-8532-45fb-8d05-e3384c7e92b8_wifi.png",
+            "alt": "wifi.png"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2007-10-01",
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "Linux",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              }
+            ],
+            "finishDate": "2007-10-01"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Mediogüevo efectos de sonido",
+          "description": "PWA para reproducir efectos de sonido desde el teléfono móvil para la compañía de teatro Mediogüevo.",
+          "URL": "https://medioguevo.up.railway.app",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/05/9c087606-48b6-404d-9871-db439aa1f41d_icon.svg",
+            "alt": "icon.svg"
+          }
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2022-09-01",
+            "competences": [
+              {
+                "name": "Svelte",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              }
+            ],
+            "finishDate": "2022-10-01"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "KinoTest",
           "description": "Kinesiology testing helper app.\nLocal only web app for capturing and storing clinic kinesiology test results.\nSvelte, PWA.\nCurrently starting the backend: data syncing, therapies edition and therapies shop.",
           "URL": "https://kinotest.me/",
           "image": {
-            "alt": "logo.svg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/01/02/ca376f26-36af-4aa8-b5c6-b052902547b2_logo.svg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/01/02/ca376f26-36af-4aa8-b5c6-b052902547b2_logo.svg",
+            "alt": "logo.svg"
           }
         },
         "type": "sideProject",
@@ -287,30 +377,29 @@
       },
       {
         "details": {
-          "name": "Mediogüevo efectos de sonido",
-          "description": "PWA para reproducir efectos de sonido desde el teléfono móvil para la compañía de teatro Mediogüevo.",
-          "URL": "https://medioguevo.up.railway.app",
+          "name": "WiFi cityzen network node software",
+          "description": "Gentoo based custom software for managing refurvised PC as public WiFi open  network. Manages P2P nodes links, routing and landpage.\n\nSole developer.",
           "image": {
-            "alt": "icon.svg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/05/9c087606-48b6-404d-9871-db439aa1f41d_icon.svg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/26/95ad9402-d4fe-434d-bfa2-6e1af097d707_captura-de-pantalla-.png",
+            "alt": "Captura de pantalla de 2022-05-26 22-07-51.png"
           }
         },
         "type": "openSource",
         "roles": [
           {
             "name": "Developer",
-            "startDate": "2022-09-01",
-            "finishDate": "2022-10-01",
+            "startDate": "2006-10-01",
             "competences": [
               {
-                "name": "Svelte",
+                "name": "Bash",
                 "type": "technology"
               },
               {
-                "name": "TypeScript",
+                "name": "Linux",
                 "type": "technology"
               }
-            ]
+            ],
+            "finishDate": "2007-02-01"
           }
         ]
       },
@@ -320,8 +409,8 @@
           "description": "PWA messaging application aimed at non-connected peer-to-peer relationships.\nMy role in the project includes the application engeniering, development leading and backend and frontend development and deploy.\n\nSome little projects born for provide solutions in Mooli: https://github.com/SafeRecoveryPhrase",
           "URL": "https://github.com/Mooli-me",
           "image": {
-            "alt": "logo.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/26/803ec4a4-c043-4992-bfbf-27a3a5f10a16_logo.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/26/803ec4a4-c043-4992-bfbf-27a3a5f10a16_logo.png",
+            "alt": "logo.png"
           }
         },
         "type": "openSource",
@@ -329,7 +418,6 @@
           {
             "name": "Developer",
             "startDate": "2021-03-01",
-            "finishDate": "2021-10-01",
             "competences": [
               {
                 "name": "Express",
@@ -347,107 +435,8 @@
                 "name": "Svelte",
                 "type": "technology"
               }
-            ]
-          }
-        ]
-      },
-      {
-        "details": {
-          "name": "SOHO WiFi access contro Guayfi",
-          "description": "Simple WiFi access control for home and small business. Web interface, backend, radius and custom firmware for routers.\n\nMy role in the project was technologial leader, Django backend and templates, system services design, deploiment and management.",
-          "image": {
-            "alt": "8ecbf7ce-063e-473b-a61c-4157663666bf_12036878_46667304679.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/26/fe3b6f9a-fe35-41df-b52f-d6a3e0ec45a1_8ecbf7ce-063e-473b-a.png"
-          }
-        },
-        "type": "sideProject",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2016-09-01",
-            "finishDate": "2017-03-01",
-            "competences": [
-              {
-                "name": "Bash",
-                "type": "technology"
-              },
-              {
-                "name": "Django",
-                "type": "technology"
-              },
-              {
-                "name": "Linux",
-                "type": "technology"
-              },
-              {
-                "name": "MariaDB",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "details": {
-          "name": "Small custom WiFi access control for educational institution",
-          "description": "Small access control web application for control students access to school WiFi.\n\nPHP backend managing iptables and routing in the background.  Provides a HTML/CSS based control pannel and a captive portal.\n\nSole developer.",
-          "image": {
-            "alt": "wifi.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/26/5ede645d-8532-45fb-8d05-e3384c7e92b8_wifi.png"
-          }
-        },
-        "type": "sideProject",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2007-10-01",
-            "finishDate": "2007-10-01",
-            "competences": [
-              {
-                "name": "CSS",
-                "type": "technology"
-              },
-              {
-                "name": "HTML",
-                "type": "technology"
-              },
-              {
-                "name": "Linux",
-                "type": "technology"
-              },
-              {
-                "name": "PHP",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "details": {
-          "name": "WiFi cityzen network node software",
-          "description": "Gentoo based custom software for managing refurvised PC as public WiFi open  network. Manages P2P nodes links, routing and landpage.\n\nSole developer.",
-          "image": {
-            "alt": "Captura de pantalla de 2022-05-26 22-07-51.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/26/95ad9402-d4fe-434d-bfa2-6e1af097d707_captura-de-pantalla-.png"
-          }
-        },
-        "type": "openSource",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2006-10-01",
-            "finishDate": "2007-02-01",
-            "competences": [
-              {
-                "name": "Bash",
-                "type": "technology"
-              },
-              {
-                "name": "Linux",
-                "type": "technology"
-              }
-            ]
+            ],
+            "finishDate": "2021-10-01"
           }
         ]
       }
@@ -456,16 +445,31 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English"
+        "name": "EN",
+        "level": "Limited working proficiency"
       },
       {
-        "name": "Galician"
+        "name": "ES",
+        "level": "Native or bilingual proficiency"
       },
       {
-        "name": "Spanish"
+        "name": "GL",
+        "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Dart",
+          "type": "technology"
+        }
+      },
       {
         "skill": {
           "name": "Django",
@@ -480,91 +484,7 @@
       },
       {
         "skill": {
-          "name": "React",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Gitflow",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "NodeJS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "JavaScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Python",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "SQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Ruby on Rails",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Dart",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "HTML",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "PHP",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "CSS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Svelte",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Express",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "MongoDB",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Vue",
           "type": "technology"
         }
       },
@@ -576,7 +496,19 @@
       },
       {
         "skill": {
-          "name": "TypeScript",
+          "name": "Gitflow",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
           "type": "technology"
         }
       },
@@ -588,26 +520,133 @@
       },
       {
         "skill": {
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PHP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "PostgreSQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Ruby on Rails",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Svelte",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Vue",
           "type": "technology"
         }
       }
     ],
     "studies": [
       {
+        "studyType": "selfTraining",
+        "degreeAchieved": true,
+        "name": "An Introduction to Interactive Programming in Python",
+        "startDate": "2013-03-01",
+        "institution": {
+          "name": "Coursera - Rice University",
+          "description": "Python development introduction",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/26/8a417aec-2cf6-42f5-a6e6-588278a8b9b1_1200px-coursera-logo.png",
+            "alt": "1200px-Coursera-Logo_600x600.svg.png"
+          }
+        },
+        "finishDate": "2013-06-01",
+        "linkedCompetences": [
+          {
+            "name": "Python",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "selfTraining",
+        "degreeAchieved": true,
+        "name": "Blockchain specialization",
+        "startDate": "2021-04-01",
+        "institution": {
+          "name": "Coursera - University at Buffalo",
+          "description": "Blockchain Basics\nSmart Contracts\nDecentralized Applications (Dapps)\nBlockchain Platforms",
+          "URL": "https://coursera.org/share/9757dede430d14a77f90fe95a1e9f417",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/26/1ca7e492-c51e-4c6a-8669-b73173a99d1a_1200px-coursera-logo.png",
+            "alt": "1200px-Coursera-Logo_600x600.svg.png"
+          }
+        },
+        "finishDate": "2021-05-01",
+        "linkedCompetences": [
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "Solidity",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "unaccredited",
         "degreeAchieved": true,
         "name": "Fullstack development bootcamp",
         "startDate": "2021-11-01",
-        "finishDate": "2022-02-01",
         "institution": {
           "name": "4Geeks academy",
           "description": "Fullstack development bootcamp",
           "image": {
-            "alt": "1651003806094.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/26/a3feadc9-b892-4797-ab91-6985efb61921_1651003806094.jpeg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/26/a3feadc9-b892-4797-ab91-6985efb61921_1651003806094.jpeg",
+            "alt": "1651003806094.jpeg"
           }
         },
+        "finishDate": "2022-02-01",
         "linkedCompetences": [
           {
             "name": "Bootstrap",
@@ -632,45 +671,30 @@
         ]
       },
       {
-        "studyType": "selfTraining",
+        "studyType": "officialDegree",
         "degreeAchieved": true,
-        "name": "Blockchain specialization",
-        "startDate": "2021-04-01",
-        "finishDate": "2021-05-01",
+        "name": "Industrial Electronics Specialist",
+        "startDate": "1994-09-01",
         "institution": {
-          "name": "Coursera - University at Buffalo",
-          "description": "Blockchain Basics\nSmart Contracts\nDecentralized Applications (Dapps)\nBlockchain Platforms",
-          "URL": "https://coursera.org/share/9757dede430d14a77f90fe95a1e9f417",
-          "image": {
-            "alt": "1200px-Coursera-Logo_600x600.svg.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/26/1ca7e492-c51e-4c6a-8669-b73173a99d1a_1200px-coursera-logo.png"
-          }
+          "name": "CIFP Ferrolterra",
+          "description": "Electronics applied in industrial environment"
         },
-        "linkedCompetences": [
-          {
-            "name": "JavaScript",
-            "type": "technology"
-          },
-          {
-            "name": "Solidity",
-            "type": "technology"
-          }
-        ]
+        "finishDate": "1999-07-01"
       },
       {
         "studyType": "unaccredited",
         "degreeAchieved": true,
         "name": "Movile hybrid applications development",
         "startDate": "2017-10-01",
-        "finishDate": "2017-10-01",
         "institution": {
           "name": "CNTG",
           "description": "Web technologies based movile application development",
           "image": {
-            "alt": "cntg.xunta_.es_.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/26/f234b29f-19dc-4f3f-80ba-b74d5bf91a3e_cntg.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/26/f234b29f-19dc-4f3f-80ba-b74d5bf91a3e_cntg.jpg",
+            "alt": "cntg.xunta_.es_.jpg"
           }
         },
+        "finishDate": "2017-10-01",
         "linkedCompetences": [
           {
             "name": "Cordova",
@@ -681,37 +705,25 @@
             "type": "technology"
           }
         ]
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Analytical thinking",
+          "type": "practice"
+        }
       },
       {
-        "studyType": "selfTraining",
-        "degreeAchieved": true,
-        "name": "An Introduction to Interactive Programming in Python",
-        "startDate": "2013-03-01",
-        "finishDate": "2013-06-01",
-        "institution": {
-          "name": "Coursera - Rice University",
-          "description": "Python development introduction",
-          "image": {
-            "alt": "1200px-Coursera-Logo_600x600.svg.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/26/8a417aec-2cf6-42f5-a6e6-588278a8b9b1_1200px-coursera-logo.png"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "Python",
-            "type": "technology"
-          }
-        ]
+        "skill": {
+          "name": "Capacity for abstract thinking",
+          "type": "practice"
+        }
       },
       {
-        "studyType": "officialDegree",
-        "degreeAchieved": true,
-        "name": "Industrial Electronics Specialist",
-        "startDate": "1994-09-01",
-        "finishDate": "1999-07-01",
-        "institution": {
-          "name": "CIFP Ferrolterra",
-          "description": "Electronics applied in industrial environment"
+        "skill": {
+          "name": "Mentoring ability",
+          "type": "practice"
         }
       }
     ]
@@ -720,8 +732,25 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/mwlite/in/daniel-ba%C3%B1obre-dopico"
+          "URL": "https://www.linkedin.com/mwlite/in/daniel-ba%C3%B1obre-dopico",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/DanBaDo",
+          "type": "github"
+        },
+        {
+          "URL": "https://twitter.com/bytes4life",
+          "type": "twitter"
+        }
+      ],
+      "contactMails": [
+        "bytes4life@proton.me"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "616656123",
+          "countryCode": "+34"
         }
       ]
     },
@@ -776,6 +805,53 @@
         "Backend Developer",
         "Full-stack Developer"
       ]
-    }
+    },
+    "status": "searchingActively"
+  },
+  "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "Express",
+        "type": "technology"
+      },
+      {
+        "name": "Flask",
+        "type": "technology"
+      },
+      {
+        "name": "NodeJS",
+        "type": "technology"
+      },
+      {
+        "name": "Svelte",
+        "type": "technology"
+      },
+      {
+        "name": "TypeScript",
+        "type": "technology"
+      }
+    ],
+    "desiredJobDescription": "I'm finding companies and projects where I can learn and grow like person and profesional.\nProjects where I can feel helpful for people and the planet.",
+    "goodPractices": "SOLID is a must, because it will ease testing and refactorization.\nI always try to write clean code and document this when it's necessary. I write tests as much as possible, basis work load and value provided. Pair programming/pair revision are very important practices for me.",
+    "projects": [
+      {
+        "name": "KinoTest"
+      },
+      {
+        "name": "Mediogüevo efectos de sonido"
+      },
+      {
+        "name": "Mooli"
+      },
+      {
+        "name": "SOHO WiFi access contro Guayfi"
+      },
+      {
+        "name": "Small custom WiFi access control for educational institution"
+      },
+      {
+        "name": "WiFi cityzen network node software"
+      }
+    ]
   }
 }
