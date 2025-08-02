@@ -1,8 +1,8 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
     "language": "EN",
-    "MACVersion": "0.3"
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
@@ -32,6 +32,18 @@
       }
     ],
     "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/mwlite/in/daniel-ba%C3%B1obre-dopico"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/DanBaDo"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/bytes4life"
+      },
       {
         "type": "other",
         "URL": "https://bytes4life.weebly.com/"
@@ -290,6 +302,99 @@
     "projects": [
       {
         "details": {
+          "name": "Mediogüevo efectos de sonido",
+          "description": "PWA para reproducir efectos de sonido desde el teléfono móvil para la compañía de teatro Mediogüevo.",
+          "URL": "https://medioguevo.up.railway.app",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/05/9c087606-48b6-404d-9871-db439aa1f41d_icon.svg",
+            "alt": "icon.svg"
+          }
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2022-09-01",
+            "competences": [
+              {
+                "name": "Svelte",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "KinoTest",
+          "description": "Kinesiology testing helper app.\nLocal only web app for capturing and storing clinic kinesiology test results.\nSvelte, PWA.\nCurrently starting the backend: data syncing, therapies edition and therapies shop.",
+          "URL": "https://kinotest.me/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/01/02/ca376f26-36af-4aa8-b5c6-b052902547b2_logo.svg",
+            "alt": "logo.svg"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2022-08-01",
+            "competences": [
+              {
+                "name": "Dart",
+                "type": "technology"
+              },
+              {
+                "name": "Svelte",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Mooli",
+          "description": "PWA messaging application aimed at non-connected peer-to-peer relationships.\nMy role in the project includes the application engeniering, development leading and backend and frontend development and deploy.\n\nSome little projects born for provide solutions in Mooli: https://github.com/SafeRecoveryPhrase",
+          "URL": "https://github.com/Mooli-me",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/26/803ec4a4-c043-4992-bfbf-27a3a5f10a16_logo.png",
+            "alt": "logo.png"
+          }
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2021-03-01",
+            "competences": [
+              {
+                "name": "Express",
+                "type": "technology"
+              },
+              {
+                "name": "Heroku",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "Svelte",
+                "type": "technology"
+              }
+            ],
+            "finishDate": "2021-10-01"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "SOHO WiFi access contro Guayfi",
           "description": "Simple WiFi access control for home and small business. Web interface, backend, radius and custom firmware for routers.\n\nMy role in the project was technologial leader, Django backend and templates, system services design, deploiment and management.",
           "image": {
@@ -362,62 +467,6 @@
       },
       {
         "details": {
-          "name": "Mediogüevo efectos de sonido",
-          "description": "PWA para reproducir efectos de sonido desde el teléfono móvil para la compañía de teatro Mediogüevo.",
-          "URL": "https://medioguevo.up.railway.app",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/05/9c087606-48b6-404d-9871-db439aa1f41d_icon.svg",
-            "alt": "icon.svg"
-          }
-        },
-        "type": "openSource",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2022-09-01",
-            "competences": [
-              {
-                "name": "Svelte",
-                "type": "technology"
-              },
-              {
-                "name": "TypeScript",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "details": {
-          "name": "KinoTest",
-          "description": "Kinesiology testing helper app.\nLocal only web app for capturing and storing clinic kinesiology test results.\nSvelte, PWA.\nCurrently starting the backend: data syncing, therapies edition and therapies shop.",
-          "URL": "https://kinotest.me/",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/01/02/ca376f26-36af-4aa8-b5c6-b052902547b2_logo.svg",
-            "alt": "logo.svg"
-          }
-        },
-        "type": "sideProject",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2022-08-01",
-            "competences": [
-              {
-                "name": "Dart",
-                "type": "technology"
-              },
-              {
-                "name": "Svelte",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "details": {
           "name": "WiFi cityzen network node software",
           "description": "Gentoo based custom software for managing refurvised PC as public WiFi open  network. Manages P2P nodes links, routing and landpage.\n\nSole developer.",
           "image": {
@@ -443,43 +492,6 @@
             "finishDate": "2007-02-01"
           }
         ]
-      },
-      {
-        "details": {
-          "name": "Mooli",
-          "description": "PWA messaging application aimed at non-connected peer-to-peer relationships.\nMy role in the project includes the application engeniering, development leading and backend and frontend development and deploy.\n\nSome little projects born for provide solutions in Mooli: https://github.com/SafeRecoveryPhrase",
-          "URL": "https://github.com/Mooli-me",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/26/803ec4a4-c043-4992-bfbf-27a3a5f10a16_logo.png",
-            "alt": "logo.png"
-          }
-        },
-        "type": "openSource",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2021-03-01",
-            "competences": [
-              {
-                "name": "Express",
-                "type": "technology"
-              },
-              {
-                "name": "Heroku",
-                "type": "technology"
-              },
-              {
-                "name": "MongoDB",
-                "type": "technology"
-              },
-              {
-                "name": "Svelte",
-                "type": "technology"
-              }
-            ],
-            "finishDate": "2021-10-01"
-          }
-        ]
       }
     ]
   },
@@ -487,14 +499,17 @@
     "languages": [
       {
         "name": "EN",
+        "fullName": "Inglés",
         "level": "Limited working proficiency"
       },
       {
         "name": "ES",
+        "fullName": "Español",
         "level": "Native or bilingual proficiency"
       },
       {
         "name": "GL",
+        "fullName": "Gallego",
         "level": "Native or bilingual proficiency"
       }
     ],
